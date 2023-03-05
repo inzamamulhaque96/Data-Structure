@@ -1,1 +1,1 @@
-# This is a sample program
+# Hello world program
